@@ -1,5 +1,5 @@
 :root{
-    --bg:#f8d2df;
+    --bg:#fffdfe;
     --body:#f7c8d8;
     --btn:#fdebf3;
     --accent:#e79cbc;
@@ -21,7 +21,7 @@ body{
 }
 
 .calc{
-    width:340px;          /* largura fixa da calculadora */
+    width:300px;          /* largura fixa da calculadora */
     background:var(--body);
     padding:20px;
     border-radius:25px;
