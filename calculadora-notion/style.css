@@ -21,7 +21,7 @@ body{
 }
 
 .calc{
-    width:220px;          /* largura fixa da calculadora */
+    width:230px;          /* largura fixa da calculadora */
     background:var(--body);
     padding:20px;
     border-radius:25px;
